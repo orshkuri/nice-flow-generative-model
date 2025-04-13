@@ -2,15 +2,9 @@
 
 A PyTorch implementation of the NICE (Non-linear Independent Components Estimation) generative model, originally proposed by Dinh et al. (2014). This project was completed as part of the Generative Models course in an MSc Data Science program.
 
----
-
-## 🧱 Model Architecture
-
-Below is a schematic illustration of the NICE model structure with alternating additive coupling layers and a final scaling layer:
-
 ![NICE Model Architecture](https://miro.medium.com/v2/resize:fit:1400/0*NH5VVAcdtUkQKTkF.png)
 
----
+--- 
 
 ## 📦 Project Structure
 
