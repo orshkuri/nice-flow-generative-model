@@ -4,9 +4,18 @@ A PyTorch implementation of the NICE (Non-linear Independent Components Estimati
 
 ---
 
+## 🧱 Model Architecture
+
+Below is a schematic illustration of the NICE model structure with alternating additive coupling layers and a final scaling layer:
+
+![NICE Model Architecture](https://miro.medium.com/v2/resize:fit:1400/0*NH5VVAcdtUkQKTkF.png)
+
+---
+
 ## 📦 Project Structure
 
 ```
+.
 ├── data/             # Stores downloaded datasets (e.g., MNIST)
 ├── models/           # Placeholder for saving trained models
 ├── samples/          # Generated image samples
